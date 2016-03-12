@@ -1,0 +1,15 @@
+event_action,cim_action
+allowed,allowed
+blocked,blocked
+dropped,dropped
+unknown,unknown
+ACCEPT,allowed
+REJECT,blocked
+DROP,dropped
+LOG,allowed
+CONNECT,allowed
+permit,allowed
+deny,blocked
+drop,dropped
+reject,blocked
+block,blocked
