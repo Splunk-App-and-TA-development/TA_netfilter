@@ -4,6 +4,7 @@ blocked,blocked
 dropped,dropped
 unknown,unknown
 ACCEPT,allowed
+BLOCK,blocked
 REJECT,blocked
 DROP,dropped
 LOG,allowed
